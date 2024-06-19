@@ -123,6 +123,7 @@ import LoginPage from './Components/LoginPage';
 import RegisterPage from './Components/RegisterPage';
 import Dashboard from './Components/Dashboard';
 import './App.css';
+//just for checking in the App.js 
 
 
 function App() {
